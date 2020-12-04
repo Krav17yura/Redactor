@@ -1,6 +1,17 @@
 # Preview 
 https://redactor-ae9b4.web.app
 
+# Example
+copy and paste
+- 1
+- 2
+- 3
+
+> node
+
+- carp
+- catfish 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
